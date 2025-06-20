@@ -1,1 +1,4 @@
 # Power-BI-Dashboard
+Hospital Emergency Room Dashboard – Monthly Overview (Feb 2024) This interactive dashboard provides key performance metrics for the hospital emergency room during February 2024. It includes: (i)Total Patients Treated: 431 (ii)Average Wait Time: 36.7 minutes (iii)Patient Satisfaction Score: 4.72 (iv)Referrals Made: 179 (v)Admission Status: 52% Admitted, 48% Not Admitted (vi)Timely Service: 66% of patients seen within 30 minutes (vii)Patient Demographics: (viii)Age Group: Highest numbers in age groups 30–39 and 70–79 (ix)Gender: 54% Female, 45% Male (x)Race: Most patients identified as White, African American, or Asian.
+
+Other insights include patient visit patterns by day and hour, department referrals (most common: General Practice), and raw patient-level details such as ID, admission timestamp, age, gender, race, and department referral.
